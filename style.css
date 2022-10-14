@@ -1,0 +1,34 @@
+#login-form{
+    padding: 100px;
+}
+
+.main-form{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
+
+#transport-area{
+    display: none;
+    padding: 100px;
+}
+
+.st1{
+    margin: 0 20px;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.Deposit{
+    background-color: rgb(48, 48, 233);
+}
+
+.Withdraw{
+    background-color: blueviolet;
+}
+
+.Balence{
+    background-color: rgba(90, 202, 42, 0.842);
+}
